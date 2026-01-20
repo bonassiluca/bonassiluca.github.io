@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Pop';
+    src: url(Poppins-Regular.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -58,7 +63,7 @@ iframe {
 }
 
 body {
-    font-family: 'Poppins';
+    font-family: 'Pop';
     background: rgba(1, 1, 1, 1.0);
     background: radial-gradient(at left top, rgba(1, 1, 1, 1.0), rgba(90, 90, 90, 1.0));
 
